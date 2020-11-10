@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomExample</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_id">id</string>
+    <string name="hint_email">Email</string>
+    <string name="label_save">Save</string>
+    <string name="label_cancel">Cancel</string>
+</resources>
